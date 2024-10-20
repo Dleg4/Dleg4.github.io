@@ -4,5 +4,7 @@ byte2: No one will find this: grep_is_your_friend
 byte3: players
 byte4: you_just_found_the_triwizard_cup
 byte5:
-byte6: unzipping_was_never_so_easy 
+byte6: unzipping_was_never_so_easy
+byte7:
+byte8: no_more_secrets_from_you 
 
