@@ -2,6 +2,7 @@ byte0: Εκτελώ ls και έπειτα κάνω cd στο αρχείο πο�
 
 byte1: Εκτελώ man supercalifragilisticexpialidocious για να μάθω τι κάνει αυτή η εντολή και βρίσκω το key.`
 
+byte2: Eκτελώ grep "will find" shakespeare.txt και παρατηρώ τη φράση No one will find this: grep_is_your_friend
 
 byte5: 1.)Εκτελώ cd /tmp
        2.)Δημιουργώ έναν καινούριο φάκελο με την εντολή mkdir. Π.χ. mkdir newfile
