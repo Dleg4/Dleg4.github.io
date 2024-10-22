@@ -4,6 +4,7 @@ byte1: Εκτελώ man supercalifragilisticexpialidocious για να μάθω 
 
 byte2: Eκτελώ grep "will find" shakespeare.txt και παρατηρώ τη φράση No one will find this: grep_is_your_friend.
 
+byte3: Εκτελώ diff shakespeare.modified.txt shakespeare.txt και έτσι την πρόταση στην οποία έγινε η αλλαγή λέξης (programmers-players).
 byte5: 1.)Εκτελώ cd /tmp
        2.)Δημιουργώ έναν καινούριο φάκελο με την εντολή mkdir. Π.χ. mkdir newfile
        3.)Αντιγράφω τον πρόγραμμα byte5.c στον καινούριο φάκελο. cp byte5.c newfile
