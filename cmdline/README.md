@@ -15,4 +15,8 @@ byte5: 1.)Εκτελώ cd /tmp
        5.)Εκτελώ gcc -o byte5 byte5.c 
        6.)Εκτελώ ./byte5 sdi2400106 πατάω enter κα έχω το keyphrase.
 
-byte8: Οποιαδήποτε εντολή κι αν εκτελέσω (xxd,pico,vim) στο αρχείο carriage_return.txt παρατηρώ οτι εκτός από το μύνημα There is absolutely nothing to see here. Move along μπορώ να δω και το keyphrase no_more_secrets_from_you. 
+byte8: Οποιαδήποτε εντολή κι αν εκτελέσω (xxd,pico,vim) στο αρχείο carriage_return.txt παρατηρώ οτι εκτός από το μύνημα There is absolutely nothing to see here. Move along μπορώ να δω και το keyphrase no_more_secrets_from_you.
+
+
+
+byte10: Εκτελώ την εντολή ls για να μάθω το όνομα του αρχείου που έχει ο χτήστης byte10 και μετά εκτελώ  sort names.txt | head έτσι ώστε τα ονόματα του αρχείου να ταξινομηθού και να εμφανιστούν τα 10 πρώτα. Άρα το όνομα του ψάχνω είναι το Adorne.  
