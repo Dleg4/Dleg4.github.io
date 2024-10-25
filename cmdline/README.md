@@ -15,7 +15,12 @@ byte5: 1.)Εκτελώ cd /tmp
        5.)Εκτελώ gcc -o byte5 byte5.c 
        6.)Εκτελώ ./byte5 sdi2400106 πατάω enter κα έχω το keyphrase.
 
-byet6: Εκτελώ 
+byet6: 1.)Εκτελώ ls για να μάθω το όνομα του αρχείου  
+       2.)Εκτελώ  cd /tmp
+       3.)Δημιουργώ ένα καινούριο dictionary με την εντολή mkdir 
+       4.)Αντιγράφω με την εντολή cp το bte6.zip στο dictionary που δημιούργησα
+       5.)Εκτελώ unzip byte6.zip και έχω πλέον ένα αρχείο byte6.txt
+       6.)Εκτελώ cat byte6.txt και έχω το key.
 
 
 byte7: 
