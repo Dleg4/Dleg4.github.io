@@ -4,7 +4,7 @@ byte1: Εκτελώ man supercalifragilisticexpialidocious για να μάθω 
 
 byte2: Eκτελώ grep "will find" shakespeare.txt και παρατηρώ τη φράση No one will find this: grep_is_your_friend.
 
-byte3: Εκτελώ diff shakespeare.modified.txt shakespeare.txt και έτσι την πρόταση στην οποία έγινε η αλλαγή λέξης (programmers-players).
+byte3: Εκτελώ diff shakespeare.modified.txt shakespeare.txt και έτσι έχω την πρόταση στην οποία έγινε η αλλαγή λέξης (programmers-players).
 
 byte4: Εκτελώ find /home/byte4 -name *.txt και έπειτα μπορώ να παρατηρήσω σε ποιο filepath βρίσκεται το αρχείο cup.txt. Εναλλακτικά μπορώ να εκτελέσω find /home/byte4 -name *.txt | grep -v box.txt και θα έχω ολα τα αρχεία εκτός από τα box.txt δηλαδή μόνο το αρχείο cup.txt. Σε κάθε περίπτωση κάνω cd  το filepath  του αρχείου cup.txt και τέλος εκτελώ  cat cup.txt για να βρω το keyphrase.
 
